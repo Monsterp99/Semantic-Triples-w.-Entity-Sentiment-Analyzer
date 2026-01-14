@@ -1,4 +1,6 @@
 # Semantic-Triples-w.-Entity-Sentiment-Analyzer
+FAQ Instructions [click here](https://docs.google.com/document/d/1x05vO3KpZk6wPQed1K228B0GHrrEWAtNmvikBvsebrk/edit?tab=t.0#heading=h.eri4d0k300sq)
+
 Quick Workflow Summary:
 
 - Cell 1: Set up client config → `create_new_client("YourClient", "academic")`
