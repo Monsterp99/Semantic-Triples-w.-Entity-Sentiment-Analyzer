@@ -1,8 +1,4 @@
 # Semantic-Triples-w.-Entity-Sentiment-Analyzer
-FAQ Instructions [click here](https://docs.google.com/document/d/13Q5EBrjw5o2lNgCDEWD-NEGbXL7ysKG00OoKmwgJd_o/edit?tab=t.0#heading=h.grjp7guxs898)
-
-CC TAG Example [click here](https://colab.research.google.com/drive/1V1t-W-4yahJs1oaiQSyzmEYeyEgwI4zu#scrollTo=lAHDzGgWJofY&forceEdit=true&sandboxMode=true)
-
 Quick Workflow Summary:
 
 - Cell 1: Set up client config → `create_new_client("YourClient", "academic")`
